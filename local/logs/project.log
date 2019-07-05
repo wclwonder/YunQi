@@ -1,0 +1,65 @@
+2019-07-03T08:32:47.187Z - normal: Load ~/.CocosCreator/settings.json
+2019-07-03T08:32:48.346Z - normal: Initializing Asset Database
+2019-07-03T08:32:48.365Z - normal: checking language setting...
+2019-07-03T08:32:48.365Z - normal: Language: zh
+2019-07-03T08:32:49.008Z - success: preview server running at http://localhost:7456
+2019-07-03T08:32:49.010Z - success: protocol editor-framework registered
+2019-07-03T08:32:49.010Z - success: protocol app registered
+2019-07-03T08:32:49.010Z - success: protocol theme registered
+2019-07-03T08:32:49.010Z - success: protocol packages registered
+2019-07-03T08:32:49.011Z - success: protocol uuid registerred
+2019-07-03T08:32:49.011Z - success: protocol db registerred
+2019-07-03T08:32:49.011Z - success: protocol thumbnail registerred
+2019-07-03T08:32:49.011Z - success: protocol unpack registerred
+2019-07-03T08:32:49.011Z - success: protocol disable-commonjs registerred
+2019-07-03T08:32:49.206Z - normal: connected!
+2019-07-03T08:32:49.210Z - normal: Check project E:\LocalSVN\YunQi
+2019-07-03T08:32:49.216Z - normal: Initializing project E:\LocalSVN\YunQi
+2019-07-03T08:32:49.866Z - normal: Initializing Cocos2d
+2019-07-03T08:32:50.608Z - normal: Initializing engine extends
+2019-07-03T08:32:50.612Z - normal: Loading editor/builtin packages from D:\CocosCreator2.10\resources\app.asar\editor\builtin
+2019-07-03T08:32:50.617Z - normal: Loading builtin packages from D:\CocosCreator2.10\resources\builtin
+2019-07-03T08:32:51.223Z - success: assets loaded
+2019-07-03T08:32:51.224Z - success: asset-db-debugger loaded
+2019-07-03T08:32:51.327Z - success: builder loaded
+2019-07-03T08:32:51.328Z - success: code-editor loaded
+2019-07-03T08:32:51.468Z - success: cocos-analytics loaded
+2019-07-03T08:32:51.469Z - success: color-picker loaded
+2019-07-03T08:32:51.618Z - success: console loaded
+2019-07-03T08:32:51.619Z - success: google-play-instant loaded
+2019-07-03T08:32:51.676Z - success: fb-instant-games loaded
+2019-07-03T08:32:51.677Z - success: jsb-adapter loaded
+2019-07-03T08:32:51.776Z - success: google-instant-games loaded
+2019-07-03T08:32:51.776Z - success: oppo-runtime loaded
+2019-07-03T08:32:51.795Z - success: hierarchy loaded
+2019-07-03T08:32:51.795Z - success: package-manager loaded
+2019-07-03T08:32:51.936Z - success: inspector loaded
+2019-07-03T08:32:51.937Z - success: qqplay-adapter loaded
+2019-07-03T08:32:51.944Z - success: keystore loaded
+2019-07-03T08:32:51.945Z - success: sdkbox loaded
+2019-07-03T08:32:51.965Z - success: node-library loaded
+2019-07-03T08:32:51.966Z - success: tester loaded
+2019-07-03T08:32:51.972Z - success: package-asset loaded
+2019-07-03T08:32:51.972Z - success: ui-grid loaded
+2019-07-03T08:32:51.976Z - success: preferences loaded
+2019-07-03T08:32:51.977Z - success: ui-kit-preview-extra loaded
+2019-07-03T08:32:51.986Z - success: project-exporter loaded
+2019-07-03T08:32:51.987Z - success: ui-kit-preview loaded
+2019-07-03T08:32:52.018Z - success: project-importer loaded
+2019-07-03T08:32:52.019Z - success: ui-kit loaded
+2019-07-03T08:32:52.024Z - success: project-settings loaded
+2019-07-03T08:32:52.025Z - success: ui-tree loaded
+2019-07-03T08:32:52.033Z - success: scene loaded
+2019-07-03T08:32:52.033Z - success: vivo-runtime loaded
+2019-07-03T08:32:52.035Z - success: simulator-debugger loaded
+2019-07-03T08:32:52.035Z - success: weapp-adapter loaded
+2019-07-03T08:32:52.037Z - success: sprite-editor loaded
+2019-07-03T08:32:52.042Z - success: store loaded
+2019-07-03T08:32:52.047Z - success: timeline loaded
+2019-07-03T08:32:52.503Z - normal: Loading packages
+2019-07-03T08:32:52.513Z - warn: 'Editor.projectInfo.path' has been deprecated, please use 'Editor.Project.path'.
+2019-07-03T08:32:52.514Z - normal: [LuaCPP Support] version 0.4
+2019-07-03T08:32:52.514Z - success: creator-luacpp-support loaded
+2019-07-03T08:32:52.515Z - normal: Watching packages
+2019-07-03T08:32:52.971Z - normal: Run Application
+2019-07-03T10:07:57.304Z - info: shutdown preview server
